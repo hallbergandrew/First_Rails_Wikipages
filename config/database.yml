@@ -1,4 +1,4 @@
-# P
+
 development:
     adapter: postgresql
     database: wikipages_development
